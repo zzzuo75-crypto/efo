@@ -1,0 +1,6 @@
+{
+  "name": "學涯家辦 Edu Family Office",
+  "description": "為重視教育的家庭，打造孩子未來 3、5、10 年以上的學涯策略。用 Family Office 邏輯，管理孩子的長期學涯資產。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
